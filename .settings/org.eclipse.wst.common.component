@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="com.kabank.jee.layout11">
+    <wb-module deploy-name="com.kabank.jee.layout">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="java-output-path" value="/com.kabank.jee.layout11/build/classes"/>
-        <property name="context-root" value="com.kabank.jee.layout11"/>
+        <property name="java-output-path" value="/com.kabank.jee.layout/build/classes"/>
+        <property name="context-root" value="com.kabank.jee.layout"/>
     </wb-module>
 </project-modules>
