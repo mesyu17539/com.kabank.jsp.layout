@@ -1,0 +1,7 @@
+@charset "UTF-8";
+#join_header{width: 80%;margin: 0 auto; text-align: center;}
+#join_table{width: 500px; height:300px; margin: 0 auto; margin-top: 50px; border-width: 2px; border-style: solid;}
+#join_table td{ border-width: 1px; border-style: ridge; text-align: left;}
+#join_btn{width: 14%; height: 100%;}
+#join_text{width: 140px;}
+#join_clear{width: 14%; height: 100%;}
